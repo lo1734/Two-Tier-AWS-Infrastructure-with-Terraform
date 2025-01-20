@@ -1,11 +1,5 @@
 # Two-Tier AWS Infrastructure with Terraform
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
-[![GitHub](https://img.shields.io/github/stars/NotHarshhaa.svg?style=social)](https://github.com/NotHarshhaa)
-[![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
-[![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
-
-![two-tier](https://imgur.com/X4dGBg6.gif)
+IMG SRC https://drive.google.com/file/d/1l-5HCZo686igOBHCQkdNZBX7EaO8uffl/view?usp=drive_link
 
 ## Overview
 
@@ -25,8 +19,8 @@ Follow these steps to deploy the Two-Tier architecture:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/NotHarshhaa/DevOps-Projects
-   cd DevOps-Projects/DevOps Project-11/
+   git clone https://github.com/lo1734/Two-Tier-AWS-Infrastructure-with-Terraform.git
+   cd src
    ```
 
 2. **Plan and Apply:**
@@ -72,15 +66,3 @@ These project highlights showcase the comprehensive AWS services integrated into
 
 For an in-depth walkthrough of the project, check out the detailed guide on [Hashnode](https://harshhaa.hashnode.dev/deploy-two-tier-architecture-on-aws-using-terraform).
 
-## Connect with Me
-
-- GitHub: [GitHub Profile](https://github.com/NotHarshhaa)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
-
-## Contributions
-
-Feel free to contribute and adapt this project to suit your needs. We welcome your ideas and improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
