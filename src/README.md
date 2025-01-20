@@ -19,7 +19,7 @@ Follow these steps to deploy the Two-Tier architecture:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/lo1734/Two-Tier-AWS-Infrastructure-with-Terraform
+   git clone https://github.com/lo1734/Two-Tier-AWS-Infrastructure-with-Terraform.git
    cd src
    ```
 
