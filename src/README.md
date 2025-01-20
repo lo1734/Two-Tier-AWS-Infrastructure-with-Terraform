@@ -1,9 +1,6 @@
 # Two-Tier AWS Infrastructure with Terraform
 
-
-
-![two-tier]([https://imgur.com/X4dGBg6.gif](https://drive.google.com/file/d/1l-5HCZo686igOBHCQkdNZBX7EaO8uffl/view?usp=drive_link))
-##https://drive.google.com/file/d/1l-5HCZo686igOBHCQkdNZBX7EaO8uffl/view?usp=drive_link
+##Image src - https://drive.google.com/file/d/1l-5HCZo686igOBHCQkdNZBX7EaO8uffl/view?usp=drive_link
 ## Overview
 
 Welcome to the Terraform project for deploying a Two-Tier architecture on AWS! This project adopts a modular and security-enhanced approach to create a scalable and maintainable infrastructure.
